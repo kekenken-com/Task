@@ -1,0 +1,8 @@
+C:\Users\kr_20\source\repos\課題\課題3\bin\Release\課題3.exe.config
+C:\Users\kr_20\source\repos\課題\課題3\bin\Release\課題3.exe
+C:\Users\kr_20\source\repos\課題\課題3\bin\Release\課題3.pdb
+C:\Users\kr_20\source\repos\課題\課題3\obj\Release\課題3.csproj.AssemblyReference.cache
+C:\Users\kr_20\source\repos\課題\課題3\obj\Release\課題3.csproj.SuggestedBindingRedirects.cache
+C:\Users\kr_20\source\repos\課題\課題3\obj\Release\課題3.csproj.CoreCompileInputs.cache
+C:\Users\kr_20\source\repos\課題\課題3\obj\Release\課題3.exe
+C:\Users\kr_20\source\repos\課題\課題3\obj\Release\課題3.pdb
